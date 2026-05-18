@@ -6,7 +6,7 @@ metadata:
 spec:
   clusterIP: None
   selector:
-    app: dbbankapp-db
+    app: dbbankapp
   ports:
     - protocol: TCP
       port: 3306
